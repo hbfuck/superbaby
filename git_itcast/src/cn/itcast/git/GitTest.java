@@ -7,4 +7,15 @@ public class GitTest {
         System.out.println("cccccccccc");
         System.out.println("ddddddddddd");
     }
+
+
+    public void test(){
+        int a = 5;
+        int b = 6;
+       int c = a+b;
+        System.out.println(c);
+
+    }
+
+
 }
